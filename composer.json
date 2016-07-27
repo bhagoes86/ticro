@@ -12,7 +12,8 @@
         "gedmo/doctrine-extensions": "^2.4",
         "beberlei/DoctrineExtensions": "^1.0",
         "laravel-doctrine/migrations": "1.0.*",
-        "laravel-doctrine/fluent": "^1.1"
+        "laravel-doctrine/fluent": "^1.1",
+        "barryvdh/laravel-ide-helper": "^2.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
